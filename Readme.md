@@ -48,6 +48,7 @@ This project explores Spotify's vast song dataset to uncover trends, forecast st
 ![image](https://github.com/user-attachments/assets/70b7f743-b2de-43ad-8786-0b1661da8e96)
 ![image](https://github.com/user-attachments/assets/764e418c-4ef9-40ba-a423-abb991c09c15)
 
+https://drive.google.com/drive/folders/16sfLGLdRGjthCBjxS9l5uSObpcNWSNiO?usp=sharing
 # 🚀 Why This Dashboard Stands Out?
 
 ## Comprehensive Insights at a Glance  
@@ -55,8 +56,7 @@ The dashboard combines **growth trends, popularity distribution, genre-wise anal
 ---
 ## 📈 Forecasting Trends with Data-Driven Predictions  
 The **"Forecasting Total Streams Over Time"** graph helps predict future listening trends, assisting **music labels, producers, and artists** in strategizing their content and marketing.  
-
-> A decline in streams towards 2025 suggests a possible market shift, signaling a need for **adaptation in music production, promotion, or platform engagement strategies**.  
+ A decline in streams towards 2025 suggests a possible market shift, signaling a need for **adaptation in music production, promotion, or platform engagement strategies**.  
 ---
 
 ## 🎵 Genre-Specific Popularity Analysis  

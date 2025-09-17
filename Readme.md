@@ -44,11 +44,9 @@ This project explores Spotify's vast song dataset to uncover trends, forecast st
 2. **Playlist Composition**: Shows the average duration of tracks per playlist.
 3. **Popularity Distribution**: Analyzes how popularity scores are distributed across playlists.
 4. **Time Trends**: Examines when tracks were added and their impact on playlist engagement.
-![image](https://github.com/user-attachments/assets/9ca76fad-dba7-4bc5-a595-639eb13ff350)
-![image](https://github.com/user-attachments/assets/70b7f743-b2de-43ad-8786-0b1661da8e96)
-![image](https://github.com/user-attachments/assets/764e418c-4ef9-40ba-a423-abb991c09c15)
 
-https://drive.google.com/drive/folders/16sfLGLdRGjthCBjxS9l5uSObpcNWSNiO?usp=sharing
+<img width="1341" height="749" alt="image" src="https://github.com/user-attachments/assets/3293962d-e181-4ed6-86be-16c00e734682" />
+
 # 🚀 Why This Dashboard Stands Out?
 
 ## Comprehensive Insights at a Glance  
